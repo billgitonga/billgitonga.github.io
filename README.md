@@ -1,2 +1,3 @@
 # billgitonga.github.io
-home
+html
+JS
